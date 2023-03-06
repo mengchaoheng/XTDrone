@@ -1,4 +1,4 @@
-image: /home/robin/px4/xtdrone/motion_planning/map/indoor5.pgm
+image: /home/parallels/px4/xtdrone/motion_planning/map/indoor5.pgm
 resolution: 0.5028
 origin: [-129, -134, 0.000000]
 negate: 0
